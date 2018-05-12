@@ -1,0 +1,30 @@
+_repo: Edda--taruopillinen-alkuosaGylfin-harhan-ky--Gylfaginning-_45373
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Snorri Sturluson
+    aliases:
+    - Sturlason, Snorre
+    - Sturleson, Snorro
+    - Sturluson, Snorri
+    deathdate: 1241
+    gutenberg_agent_id: '312'
+    url: http://www.gutenberg.org/2009/agents/312
+    wikipedia: http://en.wikipedia.org/wiki/Snorri_Sturluson
+description: ''
+gutenberg_issued: '2014-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45373'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Norse'
+- !lcc 'PT'
+title: 'Edda: taruopillinen alkuosa; Gylfin harhanäky (Gylfaginning)'
+url: http://www.gutenberg.org/ebooks/45373
